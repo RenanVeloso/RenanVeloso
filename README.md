@@ -36,6 +36,6 @@
 
 <p align="center" width="100%">
  
- ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake2.svg)
+ ![snake animation](https://github.com/RenanVeloso/RenanVeloso/blob/output/github-contribution-grid-snake2.svg)
 
 </p>
