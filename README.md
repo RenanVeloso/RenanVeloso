@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Renan Veloso!
  <p align="center" width="100%"><br>
-   <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanVeloso&layout=compact&langs_count=16&theme=github_dark"/>
+   <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanVeloso&layout=compact&langs_count=16&theme=github_dark"/>
    <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenanVeloso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
  <br>
