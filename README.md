@@ -1,4 +1,4 @@
-## Olá, Eu sou o Renan Veloso!
+## Olá, Eu sou o Renan Veloso! 👋
  <p align="center">
   <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
