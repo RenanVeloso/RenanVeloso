@@ -4,6 +4,10 @@
    <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenanVeloso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
  <br>
+ <p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
+<br>
 
   ##
 
